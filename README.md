@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SethK329
+- 👋 Hi, I’m Seth Kuhn
 - 👀 I’m interested in frontend web development.
 - 🌱 I’m currently learning html/css/javascript and react.
 - 💞️ I’m looking to collaborate on, a project that challenges me and reinforces what I have learned.
